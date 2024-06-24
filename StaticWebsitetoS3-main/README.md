@@ -1,1 +1,0 @@
-# StaticWebsitetoS3
